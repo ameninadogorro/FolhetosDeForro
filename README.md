@@ -10,4 +10,5 @@ Escopo do Projeto:
     * Os usuários podem excluir cordéis da sua biblioteca, caso desejem remover itens da lista.
     * 4. Visualização detalhada do cordel:
     * Os usuários podem visualizar detalhes completos de um cordel, incluindo sinopse, autor, gênero, avaliações, progresso de leitura, notas pessoais, etc.
+(Obs: Nao consegui implementar tudo que queria, pois fiz apenas durante o horario de almoco).
   
